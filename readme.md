@@ -1,6 +1,10 @@
-Traveler App
+# Traveler App
 
-An application for travelers to meet in different countries. The application was built in one week, in a group of 4 students.   We used:  **MongoDB, Express, React, Node.js**.  We also used API : Google Map API, GettyImages API
+An application for travelers to meet in different countries. The application was built in one week, in a group of 4 students. 
+
+We used:  **MongoDB, Express, React, Node.js**. 
+
+We also used API : Google Map API, GettyImages API
 
 How to open the Traveler App ? 
 1) Open the terminal and clone this repository
